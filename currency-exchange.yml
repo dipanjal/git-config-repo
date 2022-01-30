@@ -1,0 +1,4 @@
+currency-exchange:
+  api:
+    url: https://www.google.com/finance/quote/%s-%s
+    fetchType: scrap
